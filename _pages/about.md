@@ -31,5 +31,25 @@ I have published several conference and journal papers in venues such as ASPLOS,
 - [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://suojiashun.github.io/), **ASPLOS 2025**  
 **Jiashun Suo**, Xiaojian Liao*, Limin Xiao*, Li Ruan, Jinquan Wang, Xiao Su, Zhisheng Huo
 
+- [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://suojiashun.github.io/), **ASPLOS 2025**  
+**Jiashun Suo**, Xiaojian Liao*, Limin Xiao*, Li Ruan, Jinquan Wang, Xiao Su, Zhisheng Huo
+
+- [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://suojiashun.github.io/), **ASPLOS 2025**  
+**Jiashun Suo**, Xiaojian Liao*, Limin Xiao*, Li Ruan, Jinquan Wang, Xiao Su, Zhisheng Huo
+
+- [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://suojiashun.github.io/), **ASPLOS 2025**  
+**Jiashun Suo**, Xiaojian Liao*, Limin Xiao*, Li Ruan, Jinquan Wang, Xiao Su, Zhisheng Huo
+
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+
+- 8
+- 9
+
 # 💻 Employment and Internships
 - *2021.03 - 2021.05*, Zhejiang Lab (之江实验室), Hangzhou, China.
