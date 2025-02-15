@@ -17,12 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing a Ph.D. in Computer Science at Beihang University (2023–2027), advised by Professor Limin Xiao and Professor Xiaojian Liao. 
-I received my M.S. degree from Yunnan University in 2022, advised by Professor Weisong Shi (Adjunct Professor at Yunnan University) and Professor Wei Zhou, and my B.S. degree from Hubei Polytechnic University in 2019.
+I am currently pursuing a Ph.D. in Computer Science at Beihang University (2023–2027), advised by Professor [Limin Xiao](https://scse.buaa.edu.cn/info/1078/2653.htm) and [Xiaojian Liao](https://liaoxiaojian.github.io/). 
+I received my M.S. degree from Yunnan University in 2022, advised by Professor [Weisong Shi](https://weisongshi.org/) and [Wei Zhou](http://www.sei.ynu.edu.cn/info/1023/1106.htm), and my B.S. degree from Hubei Polytechnic University in 2019.
 
-My research interests include **ML systems** and **edge computing**, focusing on performance optimization for AI inference systems and edge AI applications. 
-I have published several conference and journal papers in venues such as ASPLOS, IEEE IoT-J, Scientific Data (Nature), and UIC.
-
+My research interests include **ML Systems** and **Edge Computing**, focusing on performance optimization for AI inference systems and edge AI applications. 
+I have published several conference and journal papers in venues such as **ASPLOS**, **IEEE IoT-J**, and **Scientific Data (Nature)**.
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 CoServe has been accepted by ASPLOS’25.
@@ -40,6 +39,8 @@ I have published several conference and journal papers in venues such as ASPLOS,
 - [Feasibility analysis of machine learning optimization on GPU-based low-cost edges](https://doi.org/10.1109/SWC50871.2021.00022), **UIC**, 2021  
 **Jiashun Suo**, Xingzhou Zhang, Shilei Zhang, Wei Zhou, Weisong Shi
 
-# 💻 Internships
-- *2022.07 - 2023.08*, BYD (比亚迪), Shenzhen, China.
+# 💻 Employment and Internships
+- *2022.07 - 2023.08*, BYD (比亚迪), Shenzhen, China.  
+Research and develop industrial quality inspection AI algorithms under small-sample conditions and high-performance AI inference systems.
 - *2021.03 - 2021.05*, Zhejiang Lab (之江实验室), Hangzhou, China.
+Research cloud-edge collaborative systems to improve the deployment efficiency of AI models under cloud-edge collaboration conditions.
