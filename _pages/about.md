@@ -39,3 +39,7 @@ I have published several conference and journal papers in venues such as ASPLOS,
 
 - [Feasibility analysis of machine learning optimization on GPU-based low-cost edges](https://doi.org/10.1109/SWC50871.2021.00022), **UIC**, 2021  
 **Jiashun Suo**, Xingzhou Zhang, Shilei Zhang, Wei Zhou, Weisong Shi
+
+# 💻 Internships
+- *2022.07 - 2023.08*, BYD (比亚迪), Shenzhen, China.
+- *2021.03 - 2021.05*, Zhejiang Lab (之江实验室), Hangzhou, China.
