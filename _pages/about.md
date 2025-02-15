@@ -40,7 +40,7 @@ I have published several conference and journal papers in venues such as **ASPLO
 **Jiashun Suo**, Xingzhou Zhang, Shilei Zhang, Wei Zhou, Weisong Shi
 
 # 💻 Employment and Internships
-- *2022.07 - 2023.08*, BYD (比亚迪), Shenzhen, China.  
+- *2022.07 - 2023.08*, **BYD (比亚迪)**, Shenzhen, China.  
 Research and develop industrial quality inspection AI algorithms under small-sample conditions and high-performance AI inference systems.
-- *2021.03 - 2021.05*, Zhejiang Lab (之江实验室), Hangzhou, China.
+- *2021.03 - 2021.05*, **Zhejiang Lab (之江实验室)**, Hangzhou, China.  
 Research cloud-edge collaborative systems to improve the deployment efficiency of AI models under cloud-edge collaboration conditions.
