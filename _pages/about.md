@@ -26,8 +26,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.01*: &nbsp;🎉🎉 CoServe has been accepted by ASPLOS’25.
 
 # 📝 Publications 
-- [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://github.com), **ASPLOS 2025**
-  **Jiashun Suo**, Xiaojian Liao*, Limin Xiao*, Li Ruan, Jinquan Wang, Xiao Su, Zhisheng Huo
+- [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://suojiashun.github.io/), **ASPLOS 2025**  
+**Jiashun Suo**, Xiaojian Liao*, Limin Xiao*, Li Ruan, Jinquan Wang, Xiao Su, Zhisheng Huo
 
 
 # 🎖 Honors and Awards
