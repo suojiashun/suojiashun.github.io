@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing a Ph.D. in Computer Science at Beihang University (2023–2027), advised by Professor [Limin Xiao](https://scse.buaa.edu.cn/info/1078/2653.htm) and [Xiaojian Liao](https://liaoxiaojian.github.io/). 
+I am currently pursuing a Ph.D. (2023 – present) in Computer Science at Beihang University, advised by Professor [Limin Xiao](https://scse.buaa.edu.cn/info/1078/2653.htm) and [Xiaojian Liao](https://liaoxiaojian.github.io/). 
 I received my M.S. degree from Yunnan University in 2022, advised by Professor [Weisong Shi](https://weisongshi.org/) and [Wei Zhou](http://www.sei.ynu.edu.cn/info/1023/1106.htm), and my B.S. degree from Hubei Polytechnic University in 2019.
 
 My research interests include **ML Systems** and **Edge Computing**, focusing on performance optimization for AI inference systems and edge AI applications. 
