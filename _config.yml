@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiashun Suo"
-# description              : ""
+description              : # ""
 repository               : "suojiashun/suojiashun.github.io"
 google_scholar_stats_use_cdn : true
 
