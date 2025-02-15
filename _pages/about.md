@@ -33,7 +33,7 @@ I have published several conference and journal papers in venues such as **ASPLO
 - [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://suojiashun.github.io/), **ASPLOS**, 2025  
 **Jiashun Suo**, Xiaojian Liao, Limin Xiao, Li Ruan, Jinquan Wang, Xiao Su, Zhisheng Huo
 
-- [E$^3$-UAV: An Edge-Based Energy-Efficient Object Detection System for Unmanned Aerial Vehicles](https://doi.org/10.1109/JIOT.2023.3301623), **IEEE IOT-J**, 2023  
+- [E<sup>3</sup>-UAV: An Edge-Based Energy-Efficient Object Detection System for Unmanned Aerial Vehicles](https://doi.org/10.1109/JIOT.2023.3301623), **IEEE IOT-J**, 2023  
 **Jiashun Suo**, Xingzhou Zhang, Weisong Shi, Wei Zhou
 
 - [HIT-UAV: A high-altitude infrared thermal dataset for Unmanned Aerial Vehicle-based object detection](https://doi.org/10.1038/s41597-023-02066-6), **Scientific Data (Nature)**, 2023  
