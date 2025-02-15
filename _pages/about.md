@@ -28,7 +28,7 @@ I have published several conference and journal papers in venues such as **ASPLO
 
 # 🔍 Research Interests️️
 ## Efficient and Scalable Systems for AI
-- Optimize AI inference/service performance through request scheduling and memory management: CoServe (ASPLOS’25)
+- Optimize AI inference/serving performance through request scheduling and memory management: CoServe (ASPLOS’25)
 
 # 📝 Selected Publications 
 - [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://suojiashun.github.io/), **ASPLOS**, 2025  
