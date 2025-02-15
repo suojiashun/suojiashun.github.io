@@ -26,7 +26,7 @@ I have published several conference and journal papers in venues such as **ASPLO
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 CoServe has been accepted by ASPLOS’25.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 - [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://suojiashun.github.io/), **ASPLOS**, 2025  
 **Jiashun Suo**, Xiaojian Liao, Limin Xiao, Li Ruan, Jinquan Wang, Xiao Su, Zhisheng Huo
 
