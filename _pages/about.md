@@ -28,8 +28,14 @@ I have published several conference and journal papers in venues such as ASPLOS,
 - *2025.01*: &nbsp;🎉🎉 CoServe has been accepted by ASPLOS’25.
 
 # 📝 Publications 
-- [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://suojiashun.github.io/), **ASPLOS 2025**  
-**Jiashun Suo**, Xiaojian Liao*, Limin Xiao*, Li Ruan, Jinquan Wang, Xiao Su, Zhisheng Huo
+- [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://suojiashun.github.io/), **ASPLOS, 2025**  
+**Jiashun Suo**, Xiaojian Liao, Limin Xiao, Li Ruan, Jinquan Wang, Xiao Su, Zhisheng Huo
 
-# 💻 Employment and Internships
-- *2021.03 - 2021.05*, Zhejiang Lab (之江实验室), Hangzhou, China.
+- [E^3-UAV: An Edge-Based Energy-Efficient Object Detection System for Unmanned Aerial Vehicles](https://doi.org/10.1109/JIOT.2023.3301623), **IEEE IOT-J**, 2023 
+**Jiashun Suo**, Xingzhou Zhang, Weisong Shi, Wei Zhou
+
+- [HIT-UAV: A high-altitude infrared thermal dataset for Unmanned Aerial Vehicle-based object detection](https://doi.org/10.1038/s41597-023-02066-6), **Scientific Data (Nature)**, 2023
+**Jiashun Suo**, Tianyi Wang, Xingzhou Zhang, Haiyang Chen, Wei Zhou, Weisong Shi
+
+- [Feasibility analysis of machine learning optimization on GPU-based low-cost edges](https://doi.org/10.1109/SWC50871.2021.00022), **UIC**, 2021
+**Jiashun Suo**, Xingzhou Zhang, Shilei Zhang, Wei Zhou, Weisong Shi
