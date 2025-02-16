@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  # - title: "Research Interests️️"
-  #   url: "/#-research-interests"
+  - title: "Research Interests️️"
+    url: "/#-research-interests"
 
   - title: "Publications"
     url: "/#-selected-publications"
@@ -15,8 +15,8 @@ main:
   - title: "Employment and Internships"
     url: "/#-employment-and-internships"
 
-  - title: "Honors and Awards"
-    url: "/#-research-interests"
+  # - title: "Honors and Awards"
+  #   url: "/#-research-interests"
 
   # - title: "Educations"
   #   url: "/#-educations"
