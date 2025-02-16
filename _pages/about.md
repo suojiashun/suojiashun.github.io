@@ -30,11 +30,16 @@ I have published several conference and journal papers in venues such as **ASPLO
 ## Efficient and Scalable Systems for AI
 - Optimize AI inference/serving performance through request scheduling and memory management: CoServe (ASPLOS’25)
 
+## Edge AI Applications
+- Optimization of efficiency, accuracy, and energy consumption in UAV-based detection systems: [E<sup>3</sup>-UAV](https://arxiv.org/pdf/2308.04774) (IEEE IoT-J), [HIT-UAV](https://doi.org/10.1038/s41597-023-02066-6) (Scientific Data (Nature))
+
+- Evaluation of ML deployment optimization methods: [ML optimization analysis](https://doi.org/10.1109/SWC50871.2021.00022) (UIC'21)
+
 # 📝 Selected Publications 
 - [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://suojiashun.github.io/), **ASPLOS**, 2025  
 **Jiashun Suo**, Xiaojian Liao, Limin Xiao, Li Ruan, Jinquan Wang, Xiao Su, Zhisheng Huo
 
-- [E<sup>3</sup>-UAV: An Edge-Based Energy-Efficient Object Detection System for Unmanned Aerial Vehicles](https://doi.org/10.1109/JIOT.2023.3301623), **IEEE IOT-J**, 2023  
+- [E<sup>3</sup>-UAV: An Edge-Based Energy-Efficient Object Detection System for Unmanned Aerial Vehicles](https://arxiv.org/pdf/2308.04774), **IEEE IoT-J**, 2023  
 **Jiashun Suo**, Xingzhou Zhang, Weisong Shi, Wei Zhou
 
 - [HIT-UAV: A high-altitude infrared thermal dataset for Unmanned Aerial Vehicle-based object detection](https://doi.org/10.1038/s41597-023-02066-6), **Scientific Data (Nature)**, 2023  
@@ -46,5 +51,6 @@ I have published several conference and journal papers in venues such as **ASPLO
 # 💻 Employment and Internships
 - *2022.07 - 2023.08*, **BYD (比亚迪)**, Shenzhen, China.  
 Research and develop industrial quality inspection AI algorithms under small-sample conditions and high-performance AI inference systems.
+
 - *2021.03 - 2021.05*, **Zhejiang Lab (之江实验室)**, Hangzhou, China.  
 Research cloud-edge collaborative systems to improve the deployment efficiency of AI models under cloud-edge collaboration conditions.
