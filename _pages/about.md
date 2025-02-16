@@ -28,10 +28,10 @@ I have published several conference and journal papers in venues such as **ASPLO
 - *2025.01*: &nbsp;🎉🎉 CoServe has been accepted by ASPLOS’25.
 
 # 🔍 Research Interests
-**Efficient and Scalable Systems for AI**  
+**- Efficient and Scalable Systems for AI**  
 - Optimize AI inference/serving performance through request scheduling and memory management: CoServe (ASPLOS’25)
 
-**Edge AI Applications**  
+**- Edge AI Applications**  
 - Optimization of efficiency, accuracy, and energy consumption in UAV-based detection systems: [E<sup>3</sup>-UAV](https://arxiv.org/pdf/2308.04774) (IEEE IoT-J), [HIT-UAV](https://doi.org/10.1038/s41597-023-02066-6) (Scientific Data (Nature))
 
 - Evaluation of ML deployment optimization methods: [ML optimization analysis](https://doi.org/10.1109/SWC50871.2021.00022) (UIC'21)
