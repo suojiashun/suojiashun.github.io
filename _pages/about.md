@@ -27,7 +27,7 @@ I have published several conference and journal papers in venues such as **ASPLO
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 CoServe has been accepted by ASPLOS’25.
 
-# 🔥 Research Interests️️
+# 🔍 Research Interests️️
 Efficient and Scalable Systems for AI  
 - Optimize AI inference/serving performance through request scheduling and memory management: CoServe (ASPLOS’25)
 
