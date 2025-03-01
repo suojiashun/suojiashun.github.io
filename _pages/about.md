@@ -34,7 +34,7 @@ I have published several conference and journal papers in venues such as **ASPLO
 **- Edge AI Applications**  
 - UAV-based detection systems: [E<sup>3</sup>-UAV](https://arxiv.org/pdf/2308.04774) (IEEE IoT-J), [HIT-UAV](https://doi.org/10.1038/s41597-023-02066-6) (Scientific Data (Nature))
 
-- Evaluation of ML optimization methods: [ML optimization analysis](https://doi.org/10.1109/SWC50871.2021.00022) (UIC'21)
+- Performance evaluation: [Analysis of ML deployment optimization methods](https://doi.org/10.1109/SWC50871.2021.00022) (UIC'21)
 
 # 📝 Selected Publications
 - [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://suojiashun.github.io/), **ASPLOS**, 2025  
