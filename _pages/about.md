@@ -29,7 +29,7 @@ I have published several conference and journal papers in venues such as **ASPLO
 
 # 🔍 Research Interests
 **- Efficient and Scalable Systems for AI**  
-- CoE(Collaboration-of-Experts) inference/serving systems: CoServe (ASPLOS’25)
+- CoE (Collaboration-of-Experts) inference/serving systems: CoServe (ASPLOS’25)
 
 **- Edge AI Applications**  
 - UAV-based detection systems: [E<sup>3</sup>-UAV](https://arxiv.org/pdf/2308.04774) (IEEE IoT-J), [HIT-UAV](https://doi.org/10.1038/s41597-023-02066-6) (Scientific Data (Nature))
