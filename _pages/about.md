@@ -21,7 +21,7 @@ I am currently pursuing a Ph.D. in Computer Science at Beihang University (2023 
 I received my M.Eng. degree from Yunnan University in 2022, under the supervision of Professor [Weisong Shi](https://weisongshi.org/) and Professor [Wei Zhou](http://www.sei.ynu.edu.cn/info/1023/1106.htm). 
 I obtained my B.Eng. degree from Hubei Polytechnic University in 2019.
 
-My research interests include **ML/AI Systems** and **Edge Computing**, focusing on performance optimization for AI inference systems and edge AI applications. 
+My research interests include **AI/ML Systems** and **Edge Computing**, focusing on performance optimization for AI inference systems and edge AI applications. 
 I have published several conference and journal papers in venues such as **ASPLOS**, **IEEE IoT-J**, and **Scientific Data (Nature)**.
 
 # 🔥 News
@@ -29,12 +29,12 @@ I have published several conference and journal papers in venues such as **ASPLO
 
 # 🔍 Research Interests
 **- Efficient and Scalable Systems for AI**  
-- Optimize AI inference/serving performance through request scheduling and memory management: CoServe (ASPLOS’25)
+- CoE(Collaboration-of-Experts) inference/serving systems: CoServe (ASPLOS’25)
 
 **- Edge AI Applications**  
-- Optimization of efficiency, accuracy, and energy consumption in UAV-based detection systems: [E<sup>3</sup>-UAV](https://arxiv.org/pdf/2308.04774) (IEEE IoT-J), [HIT-UAV](https://doi.org/10.1038/s41597-023-02066-6) (Scientific Data (Nature))
+- UAV-based detection systems: [E<sup>3</sup>-UAV](https://arxiv.org/pdf/2308.04774) (IEEE IoT-J), [HIT-UAV](https://doi.org/10.1038/s41597-023-02066-6) (Scientific Data (Nature))
 
-- Evaluation of ML deployment optimization methods: [ML optimization analysis](https://doi.org/10.1109/SWC50871.2021.00022) (UIC'21)
+- Evaluation of ML optimization methods: [ML optimization analysis](https://doi.org/10.1109/SWC50871.2021.00022) (UIC'21)
 
 # 📝 Selected Publications
 - [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://suojiashun.github.io/), **ASPLOS**, 2025  
