@@ -36,7 +36,7 @@ I have published several conference and journal papers in venues such as **ASPLO
 - CoE (Collaboration-of-Experts) inference/serving systems: CoServe (ASPLOS’25)
 
 **- Edge AI Applications**  
-- UAV-based detection systems: [E<sup>3</sup>-UAV](https://arxiv.org/pdf/2308.04774) (IEEE IoT-J), [HIT-UAV](https://doi.org/10.1038/s41597-023-02066-6) (Scientific Data (Nature))
+- UAV-based detection systems: [E³-UAV](https://arxiv.org/pdf/2308.04774) (IEEE IoT-J), [HIT-UAV](https://doi.org/10.1038/s41597-023-02066-6) (Scientific Data (Nature))
 
 - Performance evaluation: [Analysis of ML deployment optimization methods](https://doi.org/10.1109/SWC50871.2021.00022) (UIC'21)
 
@@ -46,7 +46,7 @@ I have published several conference and journal papers in venues such as **ASPLO
 - [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://suojiashun.github.io/), **ASPLOS**, 2025  
 **Jiashun Suo**, Xiaojian Liao, Limin Xiao, Li Ruan, Jinquan Wang, Xiao Su, Zhisheng Huo
 
-- [E<sup>3</sup>-UAV: An Edge-Based Energy-Efficient Object Detection System for Unmanned Aerial Vehicles](https://arxiv.org/pdf/2308.04774), **IEEE IoT-J**, 2023  
+- [E³-UAV: An Edge-Based Energy-Efficient Object Detection System for Unmanned Aerial Vehicles](https://arxiv.org/pdf/2308.04774), **IEEE IoT-J**, 2023  
 **Jiashun Suo**, Xingzhou Zhang, Weisong Shi, Wei Zhou
 
 - [HIT-UAV: A high-altitude infrared thermal dataset for Unmanned Aerial Vehicle-based object detection](https://doi.org/10.1038/s41597-023-02066-6), **Scientific Data (Nature)**, 2023  
