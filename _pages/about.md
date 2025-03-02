@@ -24,8 +24,12 @@ I obtained my B.Eng. degree from Hubei Polytechnic University in 2019.
 My research interests include **AI/ML Systems** and **Edge Computing**, focusing on performance optimization for AI inference systems and edge AI applications. 
 I have published several conference and journal papers in venues such as **ASPLOS**, **IEEE IoT-J**, and **Scientific Data (Nature)**.
 
+<span class='anchor' id='news'></span>
+
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 CoServe has been accepted by ASPLOS’25.
+
+<span class='anchor' id='research-interests'></span>
 
 # 🔍 Research Interests
 **- Efficient and Scalable Systems for AI**  
@@ -35,6 +39,8 @@ I have published several conference and journal papers in venues such as **ASPLO
 - UAV-based detection systems: [E<sup>3</sup>-UAV](https://arxiv.org/pdf/2308.04774) (IEEE IoT-J), [HIT-UAV](https://doi.org/10.1038/s41597-023-02066-6) (Scientific Data (Nature))
 
 - Performance evaluation: [Analysis of ML deployment optimization methods](https://doi.org/10.1109/SWC50871.2021.00022) (UIC'21)
+
+<span class='anchor' id='selected-publications'></span>
 
 # 📝 Selected Publications
 - [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://suojiashun.github.io/), **ASPLOS**, 2025  
@@ -48,10 +54,3 @@ I have published several conference and journal papers in venues such as **ASPLO
 
 - [Feasibility analysis of machine learning optimization on GPU-based low-cost edges](https://doi.org/10.1109/SWC50871.2021.00022), **UIC**, 2021  
 **Jiashun Suo**, Xingzhou Zhang, Shilei Zhang, Wei Zhou, Weisong Shi
-
-# 💻 Employment and Internships
-- *2022.07 - 2023.08*, **BYD (比亚迪)**, Shenzhen, China.  
-Research and develop industrial quality inspection AI algorithms under small-sample conditions and high-performance AI inference systems.
-
-- *2021.03 - 2021.05*, **Zhejiang Lab (之江实验室)**, Hangzhou, China.  
-Research cloud-edge collaborative systems to improve the deployment efficiency of AI models under cloud-edge collaboration conditions.
