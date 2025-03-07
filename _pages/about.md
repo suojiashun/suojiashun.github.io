@@ -33,7 +33,7 @@ I have published several conference and journal papers in venues such as **ASPLO
 
 # 🔍 Research Interests
 **- Efficient and Scalable Systems for AI**  
-- CoE (Collaboration-of-Experts) inference/serving systems: CoServe (ASPLOS’25)
+- CoE (Collaboration-of-Experts) inference/serving systems: [CoServe](https://arxiv.org/pdf/2503.02354) (ASPLOS’25)
 
 **- Edge AI Applications**  
 - UAV-based detection systems: [E³-UAV](https://arxiv.org/pdf/2308.04774) (IEEE IoT-J), [HIT-UAV](https://doi.org/10.1038/s41597-023-02066-6) (Scientific Data (Nature))
@@ -43,7 +43,7 @@ I have published several conference and journal papers in venues such as **ASPLO
 <span class='anchor' id='selected-publications'></span>
 
 # 📝 Selected Publications
-- [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://suojiashun.github.io/), **ASPLOS**, 2025  
+- [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://arxiv.org/pdf/2503.02354), **ASPLOS**, 2025  
 **Jiashun Suo**, Xiaojian Liao, Limin Xiao, Li Ruan, Jinquan Wang, Xiao Su, Zhisheng Huo
 
 - [E³-UAV: An Edge-Based Energy-Efficient Object Detection System for Unmanned Aerial Vehicles](https://arxiv.org/pdf/2308.04774), **IEEE IoT-J**, 2023  
