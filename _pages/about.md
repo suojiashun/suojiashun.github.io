@@ -43,7 +43,7 @@ I have published several conference and journal papers in venues such as **ACM A
 <span class='anchor' id='selected-publications'></span>
 
 # 📝 Selected Publications
-- [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://arxiv.org/pdf/2503.02354), **ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)**, 2025. <span style="color:red">(CCF-A)</span>  
+- [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://arxiv.org/pdf/2503.02354), *ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, 2025. <span style="color:red">(CCF-A)</span>  
 **Jiashun Suo**, Xiaojian Liao, Limin Xiao, Li Ruan, Jinquan Wang, Xiao Su, Zhisheng Huo
 
 - [E³-UAV: An Edge-Based Energy-Efficient Object Detection System for Unmanned Aerial Vehicles](https://arxiv.org/pdf/2308.04774), **IEEE Internet of Things Journal (IoT-J)**, 2023. <span style="color:red">(SCI Q1)</span>  
