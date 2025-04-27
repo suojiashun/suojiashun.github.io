@@ -22,7 +22,7 @@ I received my M.Eng. degree from Yunnan University in 2022, under the supervisio
 I obtained my B.Eng. degree from Hubei Polytechnic University in 2019.
 
 My research interests include **AI/ML Systems** and **Edge Computing**, focusing on performance optimization for AI inference systems and edge AI applications. 
-I have published several conference and journal papers in venues such as **ACM ASPLOS**, **IEEE IoT-J**, and **Scientific Data (Nature)**.
+I have published several conference and journal papers in venues such as **ASPLOS**, **IEEE IoT-J**, and **Scientific Data (Nature)**.
 
 <span class='anchor' id='news'></span>
 
@@ -44,11 +44,11 @@ I have published several conference and journal papers in venues such as **ACM A
 
 # 📝 Selected Publications
 - [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://arxiv.org/pdf/2503.02354)  
-*ACM International Conference on Architectural Support for Programming Languages and Operating Systems **(ACM ASPLOS)***, 2025. <span style="color:red">(CCF-A)</span>  
+*ACM International Conference on Architectural Support for Programming Languages and Operating Systems **(ASPLOS)***, 2025. <span style="color:red">(CCF-A)</span>  
 **Jiashun Suo**, Xiaojian Liao, Limin Xiao, Li Ruan, Jinquan Wang, Xiao Su, Zhisheng Huo
 
 - [E³-UAV: An Edge-Based Energy-Efficient Object Detection System for Unmanned Aerial Vehicles](https://arxiv.org/pdf/2308.04774)  
-*IEEE Internet of Things Journal **(IEEE IoT-J)***, 2023. <span style="color:red">(SCI Q1)</span>  
+*IEEE Internet of Things Journal **(IoT-J)***, 2023. <span style="color:red">(SCI Q1)</span>  
 **Jiashun Suo**, Xingzhou Zhang, Weisong Shi, Wei Zhou
 
 - [HIT-UAV: A high-altitude infrared thermal dataset for Unmanned Aerial Vehicle-based object detection](https://doi.org/10.1038/s41597-023-02066-6)  
@@ -56,5 +56,5 @@ I have published several conference and journal papers in venues such as **ACM A
 **Jiashun Suo**, Tianyi Wang, Xingzhou Zhang, Haiyang Chen, Wei Zhou, Weisong Shi
 
 - [Feasibility analysis of machine learning optimization on GPU-based low-cost edges](https://doi.org/10.1109/SWC50871.2021.00022)  
-*IEEE International Conference on Ubiquitous Intelligence and Computing **(IEEE UIC)***, 2021. <span style="color:red">(CCF-C)</span>  
+*IEEE International Conference on Ubiquitous Intelligence and Computing **(UIC)***, 2021. <span style="color:red">(CCF-C)</span>  
 **Jiashun Suo**, Xingzhou Zhang, Shilei Zhang, Wei Zhou, Weisong Shi
