@@ -107,3 +107,14 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+body, p, h1, h2, h3, h4, h5, h6, li, div {
+  color: #000000;
+}
+
+.masthead, 
+.masthead a, 
+.site-nav, 
+.site-nav a {
+  color: #000000 !important;
+}
