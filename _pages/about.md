@@ -44,7 +44,7 @@ I have published several conference and journal papers in venues such as **ASPLO
 
 # 📝 Selected Publications
 - [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://arxiv.org/pdf/2503.02354)  
-Jiashun Suo, <span style="color:#8F8F8F">Xiaojian Liao, Limin Xiao, Li Ruan, Jinquan Wang, Xiao Su, Zhisheng Huo</span>  
+**Jiashun Suo**, Xiaojian Liao, Limin Xiao, Li Ruan, Jinquan Wang, Xiao Su, Zhisheng Huo  
 *ACM International Conference on Architectural Support for Programming Languages and Operating Systems **(ASPLOS)***, 2025. <span style="color:red">(CCF-A)</span>
 
 - [E³-UAV: An Edge-Based Energy-Efficient Object Detection System for Unmanned Aerial Vehicles](https://arxiv.org/pdf/2308.04774)  
