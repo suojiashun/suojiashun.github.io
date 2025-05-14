@@ -11,6 +11,9 @@ main:
 
   - title: "Publications"
     url: "/#-selected-publications"
+  
+  - title: "Professional Services"
+    url: "/#-professional-services"
 
   # - title: "Employment and Internships"
   #   url: "/#-employment-and-internships"
