@@ -52,11 +52,11 @@ I have published several conference and journal papers in venues such as **ASPLO
 *IEEE Internet of Things Journal **(IoT-J)***, 2023. <span style="color:red">(SCI Q1)</span>
 
 - [HIT-UAV: A high-altitude infrared thermal dataset for Unmanned Aerial Vehicle-based object detection](https://doi.org/10.1038/s41597-023-02066-6)  
-**Jiashun Suo**, <span style="color:#8F8F8F">Tianyi Wang, Xingzhou Zhang, Haiyang Chen, Wei Zhou, Weisong Shi</span>  
+**Jiashun Suo**, Tianyi Wang, Xingzhou Zhang, Haiyang Chen, Wei Zhou, Weisong Shi  
 *Scientific Data (Nature)*, 2023. <span style="color:red">(SCI Q1, Citations 100+)</span>
 
 - [Feasibility analysis of machine learning optimization on GPU-based low-cost edges](https://doi.org/10.1109/SWC50871.2021.00022)  
-**Jiashun Suo**, <span style="color:#8F8F8F">Xingzhou Zhang, Shilei Zhang, Wei Zhou, Weisong Shi</span>  
+**Jiashun Suo**, Xingzhou Zhang, Shilei Zhang, Wei Zhou, Weisong Shi  
 *IEEE International Conference on Ubiquitous Intelligence and Computing **(UIC)***, 2021. <span style="color:red">(CCF-C)</span>
 
 <span class='anchor' id='professional-services'></span>
