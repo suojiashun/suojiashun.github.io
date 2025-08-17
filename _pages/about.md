@@ -43,19 +43,19 @@ I have published several conference and journal papers in venues such as **ASPLO
 <span class='anchor' id='selected-publications'></span>
 
 # 📝 Selected Publications
-- [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://arxiv.org/pdf/2503.02354)  
+- **[ASPLOS '25]** [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://arxiv.org/pdf/2503.02354)  
 **Jiashun Suo**, Xiaojian Liao, Limin Xiao, Li Ruan, Jinquan Wang, Xiao Su, Zhisheng Huo  
 *ACM International Conference on Architectural Support for Programming Languages and Operating Systems **(ASPLOS)***, 2025. <span style="color:red">**(CCF-A)**</span>
 
-- [E³-UAV: An Edge-Based Energy-Efficient Object Detection System for Unmanned Aerial Vehicles](https://arxiv.org/pdf/2308.04774)  
+- **[IEEE IoT-J]** [E³-UAV: An Edge-Based Energy-Efficient Object Detection System for Unmanned Aerial Vehicles](https://arxiv.org/pdf/2308.04774)  
 **Jiashun Suo**, Xingzhou Zhang, Weisong Shi, Wei Zhou  
 *IEEE Internet of Things Journal **(IoT-J)***, 2023. <span style="color:red">**(SCI Q1)**</span>
 
-- [HIT-UAV: A high-altitude infrared thermal dataset for Unmanned Aerial Vehicle-based object detection](https://doi.org/10.1038/s41597-023-02066-6)  
+- **[Sci. Data]** [HIT-UAV: A high-altitude infrared thermal dataset for Unmanned Aerial Vehicle-based object detection](https://doi.org/10.1038/s41597-023-02066-6)  
 **Jiashun Suo**, Tianyi Wang, Xingzhou Zhang, Haiyang Chen, Wei Zhou, Weisong Shi  
 *Scientific Data (Nature)*, 2023. <span style="color:red">**(SCI Q1, Citations 150+)**</span>
 
-- [Feasibility analysis of machine learning optimization on GPU-based low-cost edges](https://doi.org/10.1109/SWC50871.2021.00022)  
+- **[UIC '21]** [Feasibility analysis of machine learning optimization on GPU-based low-cost edges](https://doi.org/10.1109/SWC50871.2021.00022)  
 **Jiashun Suo**, Xingzhou Zhang, Shilei Zhang, Wei Zhou, Weisong Shi  
 *IEEE International Conference on Ubiquitous Intelligence and Computing **(UIC)***, 2021. <span style="color:red">**(CCF-C)**</span>
 
