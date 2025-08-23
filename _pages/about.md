@@ -38,8 +38,6 @@ I have published several conference and journal papers in venues such as **ASPLO
 **- Edge AI Applications**  
 - UAV-based detection systems: [E³-UAV](https://arxiv.org/pdf/2308.04774) (IEEE IoT-J), [HIT-UAV](https://doi.org/10.1038/s41597-023-02066-6) (Scientific Data (Nature))
 
-- Performance evaluation: [Analysis of ML deployment optimization methods](https://doi.org/10.1109/SWC50871.2021.00022) (UIC '21)
-
 <span class='anchor' id='selected-publications'></span>
 
 # 📝 Selected Publications
@@ -54,10 +52,6 @@ I have published several conference and journal papers in venues such as **ASPLO
 - **[Sci. Data]** [HIT-UAV: A high-altitude infrared thermal dataset for Unmanned Aerial Vehicle-based object detection](https://doi.org/10.1038/s41597-023-02066-6)  
 **Jiashun Suo**, Tianyi Wang, Xingzhou Zhang, Haiyang Chen, Wei Zhou, Weisong Shi  
 *Scientific Data (Nature)*, 2023. <span style="color:red">**(SCI Q1, Citations 150+)**</span>
-
-- **[UIC '21]** [Feasibility analysis of machine learning optimization on GPU-based low-cost edges](https://doi.org/10.1109/SWC50871.2021.00022)  
-**Jiashun Suo**, Xingzhou Zhang, Shilei Zhang, Wei Zhou, Weisong Shi  
-*IEEE International Conference on Ubiquitous Intelligence and Computing **(UIC)***, 2021. <span style="color:red">**(CCF-C)**</span>
 
 <span class='anchor' id='professional-services'></span>
 
