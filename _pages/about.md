@@ -47,7 +47,7 @@ I have published several conference and journal papers in venues such as **ASPLO
 
 - **[Sci. Data]** [HIT-UAV: A high-altitude infrared thermal dataset for Unmanned Aerial Vehicle-based object detection](https://doi.org/10.1038/s41597-023-02066-6)  
 **Jiashun Suo**, Tianyi Wang, Xingzhou Zhang, Haiyang Chen, Wei Zhou, Weisong Shi  
-*Scientific Data (Nature)*, 2023. <span style="color:red">**(JCR Q1, ESI Highly Cited, Citations 150+)**</span>
+*Scientific Data (Nature)*, 2023. <span style="color:red">**(JCR Q1, ESI Highly Cited, Citations 200+)**</span>
 
 - **[IEEE IoT-J]** [E³-UAV: An Edge-Based Energy-Efficient Object Detection System for Unmanned Aerial Vehicles](https://arxiv.org/pdf/2308.04774)  
 **Jiashun Suo**, Xingzhou Zhang, Weisong Shi, Wei Zhou  
