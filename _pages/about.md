@@ -21,8 +21,7 @@ I am currently pursuing a Ph.D. in Computer Science at Beihang University (2023 
 I received my M.Eng. degree from Yunnan University in 2022, under the supervision of Professor [Weisong Shi](https://weisongshi.org/) and [Wei Zhou](http://www.sei.ynu.edu.cn/info/1023/1106.htm). 
 I obtained my B.Eng. degree from Hubei Polytechnic University in 2019.
 
-My research interests include **AI/ML Systems** and **Edge Computing**, focusing on performance optimization for AI inference systems and edge AI applications. 
-I have published several conference and journal papers in venues such as **ASPLOS**, **IEEE IoT-J**, and **Scientific Data (by Nature Research)**.
+My research interests include **AI/ML Systems** and **Edge Computing**, focusing on performance optimization for AI inference systems and edge AI applications.
 
 <span class='anchor' id='news'></span>
 
