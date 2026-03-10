@@ -22,7 +22,7 @@ I received my M.Eng. degree from Yunnan University in 2022, under the supervisio
 I obtained my B.Eng. degree from Hubei Polytechnic University in 2019.
 
 My research interests include **AI/ML Systems** and **Edge Computing**, focusing on performance optimization for AI inference systems and edge AI applications. 
-I have published several conference and journal papers in venues such as **ASPLOS**, **IEEE IoT-J**, and **Scientific Data (Nature)**.
+I have published several conference and journal papers in venues such as **ASPLOS**, **IEEE IoT-J**, and **Scientific Data (by Nature Research)**.
 
 <span class='anchor' id='news'></span>
 
