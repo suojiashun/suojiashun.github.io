@@ -35,7 +35,7 @@ My research interests include **AI/ML Systems** and **Edge Computing**, focusing
 - CoE (Collaboration-of-Experts) inference/serving systems: [CoServe](https://arxiv.org/pdf/2503.02354) (ASPLOS '25)
 
 **- Edge AI Applications**  
-- UAV-based detection systems: [E³-UAV](https://arxiv.org/pdf/2308.04774) (IEEE IoT-J), [HIT-UAV](https://doi.org/10.1038/s41597-023-02066-6) (Scientific Data (by Nature Research))
+- UAV-based detection systems: [E³-UAV](https://arxiv.org/pdf/2308.04774) (IEEE IoT-J), [HIT-UAV](https://doi.org/10.1038/s41597-023-02066-6) (Scientific Data)
 
 <span class='anchor' id='selected-publications'></span>
 
